@@ -290,7 +290,7 @@ const FinancesPage = () => {
     ];
     return (
         <div className="bg-white p-6 rounded-xl shadow-md">
-            <h3 className="text-xl font-semibold text-slate-800 mb-4">Financial Management</h3>
+            <h3 className="text-xl font-semibold text-slate-800 mb-4">Financial Management Test</h3>
             <Tabs tabs={financeTabs} initialTab="income" />
         </div>
     );
